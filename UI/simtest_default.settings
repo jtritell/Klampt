@@ -1,0 +1,14 @@
+{
+  "movieHeight": 480, 
+  "updateStep": 0.01, 
+  "contact": {"forceScale": 0.01, "pointSize": 5, "normalLength": 0.05}, 
+  "poser": {
+    "color": [1, 1, 0, 0.5]
+  }, 
+  "sensorPlot": {"width": 300, "autotime": false, "duration": 2, "x": 10, "height": 200, "y": 10}, 
+  "desired": {
+    "color": [0, 1, 0, 0.5]
+  }, 
+  "pathDelay": 0.5, 
+  "movieWidth": 640
+}
